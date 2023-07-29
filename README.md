@@ -3,9 +3,10 @@
 I'm a back-end developer<br>
  🔭 一名希望探索文理结合道路的在读学生 ...<br>
  🌱 一名Java、Python选手...<br>
- 👯 希望找到一个好的工作 ...<br>
+ 👯 希望找到一个自己喜欢的工作 ...<br>
  💬 喜欢读书、跑步 ...<br>
 CSDN : https://blog.csdn.net/suxiaorui<br>
+gitee：https://gitee.com/suxiaorui109<br>
 
 <!--
 **suxiaorui/suxiaorui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
